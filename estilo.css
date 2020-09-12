@@ -1,0 +1,17 @@
+.pantone_value {
+  align-self:flex-end;
+}
+.name{
+	align-self:center;
+}
+.color{
+	align-self:center;
+}
+
+.right {
+  align-self: flex-start;
+}
+
+.left {
+  align-self: flex-end;
+}
